@@ -1,0 +1,10 @@
+export const USER_LOGIN = "USER_LOGIN";
+export const USER_LOGOUT = "USER_LOGOUT";
+
+export const GET_TODO = "GET_TODO";
+export const GET_TODO_SUCCESS = "GET_TODO_SUCCESS";
+export const GET_TODO_ERROR = "GET_TODO_ERROR";
+
+export const GET_TODO_FILTER = "GET_TODO_FILTER";
+export const GET_TODO_FILTER_SUCCESS = "GET_TODO_FILTER_SUCCESS";
+export const GET_TODO_FILTER_ERROR = "GET_TODO_FILTER_ERROR";

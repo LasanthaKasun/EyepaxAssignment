@@ -1,0 +1,9 @@
+.input-wrapper {
+    height: 40px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(196, 196, 243);
+    font-size: 18px;
+    padding: 5px;
+}

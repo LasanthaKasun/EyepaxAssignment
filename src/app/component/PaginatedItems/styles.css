@@ -1,0 +1,12 @@
+.paginate-wrapper {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 20px;
+}
+.paginate-main-wrapper {
+    display: grid;
+    justify-content: center;
+    margin-top: 20px;
+}

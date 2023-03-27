@@ -1,0 +1,13 @@
+.item-wrapper {
+    background-color: #e0dede;
+    padding: 10px 40px 10px 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.item-wrapper:hover {
+    background-color: darkgray;
+    cursor: pointer;
+}
+span {
+    font-weight: 600;
+}

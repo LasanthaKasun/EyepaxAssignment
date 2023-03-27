@@ -1,0 +1,27 @@
+.model-wrapper {
+    position: absolute;
+    background-color: rgba(56, 56, 56, 0.671);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.model-iinner {
+    background-color: #fff;
+    width: 40%;
+    height: 30%;
+    border-radius: 20px;
+    padding: 20px;
+}
+.model-close {
+    font-weight: 600;
+    cursor: pointer;
+    text-align: right;
+}
+.model-body {
+    margin-top: 30px;
+}
